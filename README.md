@@ -1,6 +1,6 @@
-# Simple Shooter
+# Simple-Space-2D-Game
 
-A basic JavaScript-based shooter game.
+A basic JavaScript-based pew-pew game.
 
 ## Features
 - Player movement and shooting
