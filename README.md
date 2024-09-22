@@ -11,4 +11,4 @@ A basic JavaScript-based pew-pew game.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zaphoid/Simple-Shooter.git
+   git clone https://github.com/zaphoid/Simple-Space-2D-Game.git
